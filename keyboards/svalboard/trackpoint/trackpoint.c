@@ -70,7 +70,7 @@ Increase this to get rid of the tail drift.
  PS2_MOUSE_SEND(0xE2, "pts: 0xE2");
  PS2_MOUSE_SEND(0x81, "pts: 0x81");
  PS2_MOUSE_SEND(0x92, "pts: 0x92");
- PS2_MOUSE_SEND(0x30, "pts: 0x30");  // Experiment with this if it isn't enough.
+ PS2_MOUSE_SEND(0x40, "pts: 0x40");  // Experiment with this if it isn't enough.
 
 /*
 
