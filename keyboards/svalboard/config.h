@@ -24,7 +24,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define WHEEL_EXTENDED_REPORT 1
 
 #define AXIS_TYPE int16_t
-
+ 
 //#define FORTY_FOUR_MM_TB
 /* key matrix size */
 // Rows are doubled-up
